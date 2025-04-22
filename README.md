@@ -1,3 +1,4 @@
+![OMS architecture](https://github.com/user-attachments/assets/642d6d75-acf2-4a01-b6b2-21bbf93cee1b)
 # Order Management System
 
 A complete microservice-based e-commerce application that demonstrates the end-to-end flow from product browsing to order completion.
